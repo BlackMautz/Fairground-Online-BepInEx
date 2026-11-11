@@ -3,6 +3,15 @@
 Das offizielle, vorkonfigurierte **BepInEx 6 (IL2CPP x64)** Mod-Loader-Paket für **Fairground Online**.  
 Einfach entpacken und sofort loslegen — keine Programmierkenntnisse oder komplizierte Einrichtung erforderlich!
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y7XMy8Jduq)
+
+---
+
+## 💬 Community & Support (Discord)
+Du suchst nach neuen Mods, brauchst Hilfe bei der Installation oder möchtest mit anderen zusammen auf der Kirmes spielen?  
+Komm auf unseren offiziellen Discord-Server:  
+👉 **[Hier dem Discord beitreten (discord.gg/y7XMy8Jduq)](https://discord.gg/y7XMy8Jduq)**
+
 ---
 
 ## 🚀 Schnellanleitung (In 30 Sekunden startklar)
@@ -61,4 +70,4 @@ Starte das Spiel ganz normal über Steam. BepInEx generiert beim ersten Start au
 > Lösche einfach den Ordner `BepInEx` sowie die beiden Dateien `winhttp.dll` und `doorstop_config.ini`. Dein Spiel ist dann wieder komplett im Originalzustand.
 
 ---
-*Erstellt für die Fairground Online Community von [BlackMautz](https://github.com/BlackMautz).*
+*Erstellt für die Fairground Online Community von [BlackMautz](https://github.com/BlackMautz) • Tritt unserem [Discord](https://discord.gg/y7XMy8Jduq) bei!*
